@@ -101,7 +101,7 @@ Briefly summarize your client, Artemis Financial, and their software requirement
 **Artemis Financial is a financial consulting company.  They develop individualized financial plans for savings, retirement, investments, and insurance.  They have employed us to implement and apply the most current and effective software security.  More specifically Artemis Financial wants to add a file verification step to their web application to ensure secure communication.  It is my job to create this verification step in the form of a checksum.**
 
 What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
-**I performed many actions in identifying their software security vulnerabilities. What I did particularly well in was performing a dependency check and reviewing my vulnerabilities.  After reviewing them I suppressed the false positives and update what dependencies I could. Coding securely is one of the most important practices.  When a company such as Artemis Financial is working with customers financial information or personal information you must protect it from potential hackers. The wellbeing of the company relies on this security.  Customers are trusting that the company is protecting their personal information.  If this information is taken due to malicious activity, that trust is broken. Without trust customers take their business somewhere else.  It can take a long time for a company to earn their client’s trust back. **
+**I performed many actions in identifying their software security vulnerabilities. What I did particularly well in was performing a dependency check and reviewing my vulnerabilities.  After reviewing them I suppressed the false positives and update what dependencies I could. Coding securely is one of the most important practices.  When a company such as Artemis Financial is working with customers financial information or personal information you must protect it from potential hackers. The wellbeing of the company relies on this security.  Customers are trusting that the company is protecting their personal information.  If this information is taken due to malicious activity, that trust is broken. Without trust customers take their business somewhere else.  It can take a long time for a company to earn their client’s trust back.**
 
 What about the process of working through the vulnerability assessment did you find challenging or helpful?
 **The most challenging part with the vulnerabilities was understanding false positives.  I had to do some extra research to find what dependencies had updates to fix the issues.  I then updated all my dependencies that I could.  I then suppressed those that had no fixes or that did not affect my program.**
@@ -117,3 +117,16 @@ What resources, tools, or coding practices did you employ that you might find he
 
 Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 **There were many parts of this assignment I did well and a few I struggled with. I would show a future employer that I successfully generated a self-signed certificate. This shows that I created one and that my browser has accepted it under my name.**
+
+**CS-320**
+
+How can I ensure that my code, program, or software is functional and secure?
+**You can ensure that your code is functional and secure by running the appropriate tests.  After writing small sections of code it is important to run tests on it.  There are
+many automated tests that help with this.  In this class I used Junit testing.  It is important to ensure that the whole tested program is covered by the Junit test.  After each section is properly tested and working, integration testing is next.  This consists of combining the different sections of code and testing whether they work properly together.**
+
+How do I interpret user needs and incorporate them into a program?
+**Gathering user needs through user stories and interviews will help me understand what the user wants in their program.  After gathering all the information from the user, I 
+will plan my code by using notes and diagrams.  When I start developing the program I will constantly refer back to these notes and diagrams on what the user wants.  I will also center my testing around what is expected of the program based on the user needs.**
+
+How do I approach designing software?
+**I approach designing software by using the Software Development Life Cycle (SDLC) process.  The first step is planning what I will be doing. Next, defining, designing, building, testing, and deployment.  However, I will test my program throughout its entire lifecycle.**
