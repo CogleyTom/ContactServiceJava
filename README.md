@@ -53,14 +53,3 @@ What does it mean to be a good team member in software development?
 **A good team member works together with all members of their team. They understand the importance of active communication
 and that everyone's opinion matters. A good team member works as part of the team and does not try and do everything
 how they want and by themselves.**
-
-**CS-340**
-
-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
-**To write programs that are maintainable, readable, and adaptable the program needs to be reusable.  This means making a program that uses logic that can be used for many different programs.  Also, proper commenting can help other prgrammers understand what your program is supposed to do.  Finally, creating simple functions that do one thing can be used for anything similar.**
-
-How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
-**As a computer scientist you first have to plan on how to solve a problem.  You must know what the solution should look like and map out how to get there.  This can be done with pen and paper, or by creating pseudocode.  This project was different than anything I have worked on before.  I used multiple things to develop a full stack application, mongoDB, my CRUD Python module, and my actual project using Dash and Pandas.  It was very interesting and showed me how multiple things can interact with eachother.  To meet client requests in the future I will definately use the Data Aggregation Pipeline to organize databases.**
-
-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
-**Computer Scientists solve a problem using technology.  Computer science is very broad, individuals in this field must understand, mathematics, programming languages, embeded systems and many more.  This matters because they work on developing programs for everything from videogames, street cameras, ATMs, phones, computers, airplanes, cars, and many more.  My work on this type of project can help any company.  A database such as the one I worked on had over 10,000 data points. Manually going through each one would take a very long time.  Whereas my program did not take long to develop and was able to organize and display the data in seconds.**
